@@ -1,4 +1,12 @@
-﻿![alt text](https://raw.githubusercontent.com/dremin/retrobar/master/retrobar-preview.png "RetroBar")
+# THIS PROJECT HAS BEEN DEPRECIATED. PLEASE USE NORMAL [RETROBAR](https://github.com/dremin/RetroBar) AS IT NOW SUPPORTS MULTIPLE MONITORS AND MORE!
+
+
+
+
+
+
+
+![alt text](https://raw.githubusercontent.com/dremin/retrobar/master/retrobar-preview.png "RetroBar")
 
 # RetroBar
 ![RetroBar](https://github.com/dremin/RetroBar/workflows/RetroBar/badge.svg)
